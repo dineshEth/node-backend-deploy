@@ -1,6 +1,7 @@
 import express from 'express';
 import chatbotRouter from './api/chatbot/router.js';
 import healthRouter from './api/health/router.js';
+import cors from 'cors';
 
 
 const app = express();
