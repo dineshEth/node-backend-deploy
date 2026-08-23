@@ -1,19 +1,24 @@
 {
-  "name": "y",
+  "name": "Chatbot",
   "version": "1.0.0",
-  "description": "y",
+  "description": "A simple chatbot application",
   "keywords": [
-    "y"
+    "chatbot",
+    "ai",
+    "nodejs"
   ],
   "repository": {
     "type": "git",
-    "url": "y"
+    "url": "https://github.com/yourusername/chatbot.git"
   },
   "license": "ISC",
-  "author": "yy",
-  "type": "y",
-  "main": "y",
+  "author": "Dinesh",
+  "type": "module",
+  "main": "index.js",
   "scripts": {
-    "test": "y"
+    "test": "node test"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
   }
 }
