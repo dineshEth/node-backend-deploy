@@ -17,7 +17,10 @@
   "main": "src/index.js",
   "scripts": {
     "dev": "node src/index.js",
-    "test": "node test"
+    "test": "node test",
+    "build": "mkdir -p dist && cp -r src/* dist/",
+    "start": "node dist/index.js",
+    "prestart": "npm run build"
   },
   "dependencies": {
     "@mistralai/mistralai": "^2.6.4",
