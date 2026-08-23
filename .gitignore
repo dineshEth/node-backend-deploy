@@ -1,0 +1,103 @@
+# Dependencies
+node_modules/
+jspm_packages/
+
+# Build output
+dist/
+build/
+out/
+.next/
+.nuxt/
+.cache/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Package manager files
+.pnp/
+.pnp.js
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# Testing / coverage
+coverage/
+.nyc_output/
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Optional lock files (uncomment if you don't want to commit these)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Misc
+*.tgz
+.eslintcache
+.parcel-cache/# Dependencies
+node_modules/
+jspm_packages/
+
+# Build output
+dist/
+build/
+out/
+.next/
+.nuxt/
+.cache/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Package manager files
+.pnp/
+.pnp.js
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# Testing / coverage
+coverage/
+.nyc_output/
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Optional lock files (uncomment if you don't want to commit these)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Misc
+*.tgz
+.eslintcache
+.parcel-cache/
