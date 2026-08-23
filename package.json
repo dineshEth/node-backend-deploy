@@ -14,9 +14,9 @@
   "license": "ISC",
   "author": "Dinesh",
   "type": "module",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "dev": "node index.js",
+    "dev": "node src/index.js",
     "test": "node test"
   },
   "dependencies": {
