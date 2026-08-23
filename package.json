@@ -16,6 +16,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
+    "dev": "node index.js",
     "test": "node test"
   },
   "dependencies": {
