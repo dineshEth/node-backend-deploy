@@ -18,8 +18,8 @@
   "scripts": {
     "dev": "node src/index.js",
     "test": "node test",
-    "build": "mkdir -p dist && cp -r src/* dist/",
-    "start": "node dist/index.js",
+    "build": "mkdir -p dist && cp -r src dist/",
+    "start": "node dist/src/index.js",
     "prestart": "npm run build"
   },
   "dependencies": {
